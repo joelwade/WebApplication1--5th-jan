@@ -1,0 +1,7 @@
+C:\Users\p4100378\Desktop\WebApplication1\MicroServiceRepositorys\obj\Debug\MicroServiceRepositorys.csprojResolveAssemblyReference.cache
+C:\Users\p4100378\Desktop\WebApplication1\MicroServiceRepositorys\bin\Debug\MicroServiceRepositorys.dll
+C:\Users\p4100378\Desktop\WebApplication1\MicroServiceRepositorys\bin\Debug\MicroServiceRepositorys.pdb
+C:\Users\p4100378\Desktop\WebApplication1\MicroServiceRepositorys\bin\Debug\Dtos.dll
+C:\Users\p4100378\Desktop\WebApplication1\MicroServiceRepositorys\bin\Debug\Dtos.pdb
+C:\Users\p4100378\Desktop\WebApplication1\MicroServiceRepositorys\obj\Debug\MicroServiceRepositorys.dll
+C:\Users\p4100378\Desktop\WebApplication1\MicroServiceRepositorys\obj\Debug\MicroServiceRepositorys.pdb

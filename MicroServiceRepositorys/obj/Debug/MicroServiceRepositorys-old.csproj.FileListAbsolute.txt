@@ -1,0 +1,3 @@
+C:\Users\hj\Desktop\WebApplication1\MicroServiceRepositorys\obj\Debug\MicroServiceRepositorys-old.csprojResolveAssemblyReference.cache
+C:\Users\hj\Desktop\WebApplication1\MicroServiceRepositorys\obj\Debug\MicroServiceRepositorys.dll
+C:\Users\hj\Desktop\WebApplication1\MicroServiceRepositorys\obj\Debug\MicroServiceRepositorys.pdb
